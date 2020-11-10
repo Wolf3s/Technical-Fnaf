@@ -1,0 +1,27 @@
+#pragma once
+
+// Name: Freddys, Version: 4.2.1
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+namespace SDK
+{
+//---------------------------------------------------------------------------
+// Script Structs
+//---------------------------------------------------------------------------
+
+// UserDefinedStruct ControllerButton_Struct.ControllerButton_Struct
+// 0x0010
+struct FControllerButton_Struct
+{
+	class UTexture2D*                                  Pressed_5_81660A7843522D429C48C29D3CA9FEC4;               // 0x0000(0x0008) (Edit, BlueprintVisible, ZeroConstructor, IsPlainOldData)
+	class UTexture2D*                                  Unpressed_6_AEF473E745752B8250B713B9E40A4EB6;             // 0x0008(0x0008) (Edit, BlueprintVisible, ZeroConstructor, IsPlainOldData)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
