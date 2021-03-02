@@ -1,5 +1,5 @@
 # Technical Fnaf
-You will find things such as SDK dumps for Five nights at freddys game's (Help wanted and Security Breach)
+You will find things such as SDK (Source Development Kit's) dumps for Five nights at freddys game's (Help wanted and Security Breach)
 
 # Game Info
 | Game               | Engine version  | Net CL   | Extra Info                               |
