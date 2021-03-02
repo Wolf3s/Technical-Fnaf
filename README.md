@@ -19,4 +19,8 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
   
  ![Settings](https://cdn.discordapp.com/attachments/770696401776672813/816368889381650493/unknown.png)  
  
- **3. When you press *Ok* a popup will appear stating that the game require's an AES Key (Encryption Key). If you are loading help wanted **
+ **3. When you press *Ok* a popup will appear stating that the game require's an AES Key (Encryption Key).** 
+  
+ ![Aes](https://cdn.discordapp.com/attachments/770696401776672813/816369910531358770/unknown.png)  
+  
+  
