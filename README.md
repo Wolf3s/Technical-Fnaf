@@ -13,9 +13,10 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
  
  **How do i open Fnaf with Umodel?**
  
- 1. Open Umodel.exe (If you want sound's open Umodel with "Umodel.exe -sounds")
+ **1. Open Umodel.exe (If you want sound's open Umodel with "Umodel.exe -sounds")**
 
- 2. For Help Wanted put these setting's into Umodel.  
+ **2. For Help Wanted put these setting's into Umodel.**  
+  
  ![Settings](https://cdn.discordapp.com/attachments/770696401776672813/816367417239928852/unknown.png)  
  
  3.
