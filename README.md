@@ -1,7 +1,11 @@
 # Technical Fnaf
 You will find things such as SDK (Software Development Kit's) dumps for Five nights at freddys game's (Help wanted and Security Breach)
 
-# Game Info
+# Game SDK's
+**Help wanted is [here](https://github.com/NotFakeAdam/Technical-Fnaf/tree/main/SDK/Help%20Wanted)**
+**Security Breach is **[here](https://github.com/NotFakeAdam/Technical-Fnaf/tree/main/SDK/Security%20Breach)**
+
+# Game Detail's
 | Game               | Engine version  | Aes Key                                                             |
 | ------------------ | --------------- | ------------------------------------------------------------------- |
 | Help Wanted        | 4.21.0-3901517  | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
