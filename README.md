@@ -15,8 +15,8 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
  
  **1. Open Umodel.exe (If you want sound's open Umodel with "Umodel.exe -sounds")**
 
- **2. For Help Wanted put these setting's into Umodel.**  
+ **2. Put these setting's into Umodel and put in the path to the game's pak file's. Then change the second tab to the engine version the game uses ***Help Wanted is 4.21 and Security Breach is 4.26*****  
   
- ![Settings](https://cdn.discordapp.com/attachments/770696401776672813/816367417239928852/unknown.png)  
+ ![Settings](https://cdn.discordapp.com/attachments/770696401776672813/816368889381650493/unknown.png)  
  
  **3. When you press *Ok* a popup will appear stating that the game require's an AES Key (Encryption Key). If you are loading help wanted **
