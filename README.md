@@ -11,4 +11,8 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
  
  **Download Umodel [here](https://www.gildor.org/en/projects/umodel#files) (Choose the right install for your device. Reminder, it's X32 still).**
  
+ **How do i open Fnaf with Umodel?**
  
+ 1. Open Umodel.exe (If you want sound's open Umodel with "Umodel.exe -sounds")
+
+ 2. For Help Wanted put these setting's into Umodel. ![Settings](https://cdn.discordapp.com/attachments/770696401776672813/816367417239928852/unknown.png)  
