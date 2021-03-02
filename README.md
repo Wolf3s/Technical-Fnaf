@@ -9,4 +9,4 @@ You will find things such as SDK dumps for Five nights at freddys game's (Help w
 
 # Help with Umodel (Unreal Viewer)
  
- Download for Umodel [here](https://www.gildor.org/en/projects/umodel#files)
+ Download Umodel [here](https://www.gildor.org/en/projects/umodel#files) (Choose the right install for your device. Reminder, it's X32 still)
