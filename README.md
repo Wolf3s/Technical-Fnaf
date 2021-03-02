@@ -2,10 +2,10 @@
 You will find things such as SDK (Software Development Kit's) dumps for Five nights at freddys game's (Help wanted and Security Breach)
 
 # Game Info
-| Game               | Engine version  | Net CL   | Extra Info                               | Aes Key                                                             |
-| ------------------ | --------------- | -------- | ---------------------------------------- | ------------------------------------------------------------------- |
-| Help Wanted        | 4.21.0-3901517  | 3896952  | First official fnaf in Unreal Engine.    | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
-| Security Breach    | 4.26.0-3915963  | 3911441  | It has rtx omfg                          | Not out yet lol.                                                    |
+| Game               | Engine version  | Aes Key                                                             |
+| ------------------ | --------------- | ------------------------------------------------------------------- |
+| Help Wanted        | 4.21.0-3901517  | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
+| Security Breach    | 4.26.0-3915963  | Not out yet lol.                                                    |
 
 # Help with Umodel (Unreal Viewer)
  
