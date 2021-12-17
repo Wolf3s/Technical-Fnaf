@@ -11,8 +11,8 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
 # Game Detail's
 | Game               | Engine version  | Aes Key                                                             |
 | ------------------ | --------------- | ------------------------------------------------------------------- |
-| Help Wanted        | 4.21.0-3901517  | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
-| Security Breach    | 4.26.0-3915963  | Not out yet lol.                                                    |
+| Help Wanted        | 4.21.0-SWG (Custom Ue Build) | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
+| Security Breach    | 4.25.0-SWG (Custom Ue Build) | 0x85F7D4007015493ED0359C9007266038F8F7B1F96988F19A610103874CC95286  |
 
 # Help with Umodel (Unreal Viewer)
  
@@ -22,7 +22,7 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
  
  **1. Open Umodel.exe (If you want sound's open Umodel with "Umodel.exe -sounds")**
 
- **2. Put these setting's into Umodel and put in the path to the game's pak file's. Then change the second tab to the engine version the game uses. ***(Help Wanted is 4.21 and Security Breach is 4.26)*****  
+ **2. Put these setting's into Umodel and put in the path to the game's pak file's. Then change the second tab to the engine version the game uses. ***(Help Wanted is 4.21 and Security Breach is 4.25)*****  
   
  ![Settings](https://cdn.discordapp.com/attachments/770696401776672813/816368889381650493/unknown.png)  
  
