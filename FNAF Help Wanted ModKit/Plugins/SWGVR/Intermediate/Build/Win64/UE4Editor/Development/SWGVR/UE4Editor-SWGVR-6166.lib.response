@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SWGVR-6166.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\freddys\Intermediate\Build\Win64\freddysEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\freddys\Plugins\SWGVR\Intermediate\Build\Win64\UE4Editor\Development\SWGVR\Module.SWGVR.cpp.obj"
+"C:\freddys\Plugins\SWGVR\Intermediate\Build\Win64\UE4Editor\Development\SWGVR\Module.SWGVR.gen.cpp.obj"
+"C:\freddys\Plugins\SWGVR\Intermediate\Build\Win64\UE4Editor\Development\SWGVR\PCLaunch.rc.res"
+/OUT:"C:\freddys\Plugins\SWGVR\Intermediate\Build\Win64\UE4Editor\Development\SWGVR\UE4Editor-SWGVR-6166.lib"
