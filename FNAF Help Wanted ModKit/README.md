@@ -11,6 +11,6 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
 
  **How do i put my custom content in FNAF?**
 
- **Watch this short video I put together to help, and remember **ONLY PUT YOUR CONTENT IN THE PAK FOLDER!!!!** 
+ **Watch this short video I put together to help, and remember **ONLY PUT YOUR CONTENT IN THE PAK FOLDER!!!!**  
  **[Video](https://youtu.be/Z4PcvlPPcqs)**
 
