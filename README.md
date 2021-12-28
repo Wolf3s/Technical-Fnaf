@@ -16,7 +16,7 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
 
 # Help with Umodel (Unreal Viewer)
  
- **Download Umodel [here](https://www.gildor.org/en/projects/umodel#files) (Choose the right install for your device. Reminder, ~~it's X32 still~~ it's now both!).**
+ **Download Umodel [here](https://www.gildor.org/en/projects/umodel#files) (Choose the right install for your device. Reminder, ~~it's x32 still~~ it's now both!).**
  
  **How do i open Fnaf with Umodel?**
  
