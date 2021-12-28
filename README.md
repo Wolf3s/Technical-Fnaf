@@ -11,8 +11,8 @@ You will find things such as SDK (Software Development Kit's) dumps for Five nig
 # Game Detail's
 | Game               | Engine version  | Aes Key                                                             |
 | ------------------ | --------------- | ------------------------------------------------------------------- |
-| Help Wanted        | 4.21.0-SWG (Custom Ue Build) | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
-| Security Breach    | 4.25.0-SWG (Custom Ue Build) | 0x85F7D4007015493ED0359C9007266038F8F7B1F96988F19A610103874CC95286  |
+| Help Wanted        | 4.21.0-SWG  (Custom Ue Build) | 0x710891DF17EAFFCA17CB0620F0F0DCA90A00C657F49BC131D4110B265EC2E41E  |
+| Security Breach    | 4.25.0-PLUS (Custom Ue Build) | 0x85F7D4007015493ED0359C9007266038F8F7B1F96988F19A610103874CC95286  |
 
 # Help with Umodel (Unreal Viewer)
  
